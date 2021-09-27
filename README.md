@@ -1,4 +1,4 @@
-## Olá me chamo Lucas Andrade de Avila ✋
+## Olá eu sou Lucas Andrade de Avila ✋, futuro desenvolvedor Python
 
 <div align="center">
   <a href="https://github.com/LucasAvilaa">
