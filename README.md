@@ -22,10 +22,10 @@
   
 <div>
   <a href="mailto:lucas.avila76@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="40" align="center"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
   <a href="https://www.linkedin.com/in/lucasaavila/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
+    <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">  
   </a>
   
   ![Snake animation](https://github.com/LucasAvilaa/LucasAvilaa/blob/output/github-contribution-grid-snake.svg)
