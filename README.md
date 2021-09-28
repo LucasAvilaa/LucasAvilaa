@@ -5,11 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAvilaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAvilaa&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
-<br />  
-  
+   
 <div>  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img width="100" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +20,7 @@
   
 <div>
   <a href="mailto:lucas.avila76@gmail.com">
-    <img height="40" align="center"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"">
   </a>  
   <a href="https://www.linkedin.com/in/lucasaavila/" target="_blank">
     <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">  
