@@ -17,7 +17,7 @@
 </div>   
 
 ##
-  
+
 <div>
   <a href="mailto:lucas.avila76@gmail.com">
     <img height="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"">
