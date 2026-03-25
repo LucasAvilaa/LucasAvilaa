@@ -15,12 +15,17 @@
 
 ### 👋 About Me
 
-Senior Software Engineer with **6+ years** of experience building and evolving business-critical systems. Deep expertise in **Odoo ERP** — from functional consulting to full-stack technical development — with **5 official certifications (v14 → v18)** and a Computer Science degree.
-
-I specialize in turning complex business challenges into practical, efficient solutions through process automation, REST APIs, webhook integrations, and version migrations. Strong background in cross-functional collaboration using Scrum and Kanban.
-
-Currently expanding my stack into **modern fullstack development** with FastAPI, Next.js, and cloud-native tooling to build scalable SaaS applications.
-
+I build backend systems that automate complex business processes and scale reliably.
+ 
+Over 6 years I've worked deep inside ERP ecosystems — migrating production systems across 5 major Odoo versions (v14→v18), designing REST API and webhook integrations, and automating workflows for finance, inventory, and operations teams. I hold 5 official Odoo certifications across v14–v18, covering both functional and technical tracks.
+ 
+Currently expanding into modern fullstack development: FastAPI for high-performance Python APIs, Next.js 16 + React + TypeScript on the frontend, Docker-based deployments, PostgreSQL at the data layer.
+ 
+What I bring to a remote team: 6+ years in Scrum/Kanban, clear written English for async communication, and strong overlap with US East Coast hours (BRT/GMT-3, São Paulo).
+ 
+Core stack: Python · FastAPI · JavaScript/TypeScript · React · Next.js · PostgreSQL · Docker · Git · REST APIs · Odoo (v14–v18)
+ 
+Currently open to remote Backend or Fullstack roles with teams in the US or EU.
 ---
 
 ### 🛠️ Tech Stack
