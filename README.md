@@ -29,7 +29,7 @@ I'm based in São Paulo (GMT-3), write clearly in English, and work well in asyn
 
 ### Featured Project
 
-#### 💸 Expense Tracker — [Live Demo →](https://www.territorio-da-informacao.com.br/)
+#### 💸 Expense Tracker — [Live Demo →](https://app.lucasavila.dev/)
 
 A personal finance app built to have something real to work with — and to put the modern stack into practice outside of work. It handles expense tracking, budget management, and auth with MFA. Deployed and running.
 
